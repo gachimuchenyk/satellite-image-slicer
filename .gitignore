@@ -1,2 +1,5 @@
 runs/
 yuma_dataset_tiled/
+.idea/
+__pycache__/
+*.pyc
