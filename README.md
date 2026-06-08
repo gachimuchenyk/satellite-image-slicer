@@ -53,7 +53,6 @@ Use this utility to reorganize your dataset or split it into train, val, and tes
 python merge_and_split.py
 
 📂 Project Structure
-Plaintext
 
 ├── main_slice.py          # Advanced slicer with 14 classes
 ├── Slice.py               # Alternative/legacy slicer
